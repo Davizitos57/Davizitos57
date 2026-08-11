@@ -45,12 +45,12 @@
         title="Git"
     /> 
     <img height="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-original-wordmark.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/proxmox/proxmox-plain-wordmark.svg" 
         alt="Proxmox" 
         title="Proxmox"
     /> 
     <img height="50" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
         alt="Docker" 
         title="Docker" 
     /> 
@@ -73,19 +73,13 @@
 
 <p align="center"> 
     <img height="165" 
-        src="https://github-stats-extended.vercel.app/api?username=Davizitos57&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true" 
-        alt="Estatísticas do GitHub" 
-    /> 
-    <img height="165" 
         src="https://github-stats-extended.vercel.app/api/top-langs/?username=Davizitos57&layout=compact&theme=dark&bg_color=0D1117&hide_border=true" 
         alt="Linguagens mais usadas" 
         /> 
-    </p> 
-    <p align="center"> 
-        <img src="https://streak-stats.demolab.com/?user=Davizitos57&theme=dark&background=0D1117&hide_border=true" 
+    <img height="165" 
+        src="https://streak-stats.demolab.com/?user=Davizitos57&theme=dark&background=0D1117&hide_border=true" 
         alt="Streak de contribuições" 
     /> 
-    </p> 
 <p align="center">
 
 ---
