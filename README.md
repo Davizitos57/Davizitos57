@@ -84,4 +84,10 @@
 
 ---
 
-<p align="center"><i>Obrigado pela visita! Se curtir algum repositório, deixe uma ⭐</i></p>
+<p align="center">
+  <img src="./assets/alien.png" alt="SF57" width="50" align="middle">
+    &nbsp;
+  <i>Obrigado pela visita! Se curtir algum repositório, deixe uma ⭐</i>
+  &nbsp;
+  <img src="./assets/sc4rf0x57.png" alt="SF57" width="50" align="middle">
+</p>
