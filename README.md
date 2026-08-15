@@ -11,7 +11,7 @@
 ## Sobre mim 
 
 - Sou estudante de Sistemas de Informação na [Universidade Federal de Ouro Preto](https://icea.ufop.br/)
-- Atuo como **DevOps** e tenho grande interesse e paixão por **Engenharia de Software** e **Segurança da Informação**.
+- Atuo atualmente como **DevOps** e tenho grande interesse e paixão por **Engenharia de Software** e **Segurança da Informação**.
 - Adoro me desafiar, seja tecnicamente ou criativamente, e estou sempre em busca de projetos e novas tecnologias para colocar em prática o que aprendo.
 
 ## Linguagens e tecnologias 
@@ -50,6 +50,11 @@
         title="Proxmox"
     /> 
     <img height="50" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" 
+        alt="Nginx" 
+        title="Nginx"
+    /> 
+    <img height="50" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
         alt="Docker" 
         title="Docker" 
@@ -86,7 +91,7 @@
 
 <p align="center">
   <img src="./assets/alien.png" alt="SF57" width="50" align="middle">
-    &nbsp;
+  &nbsp;
   <i>Obrigado pela visita! Se curtir algum repositório, deixe uma ⭐</i>
   &nbsp;
   <img src="./assets/sc4rf0x57.png" alt="SF57" width="50" align="middle">
